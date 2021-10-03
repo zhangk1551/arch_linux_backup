@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="pointers" version="1.0">
+  <property name="DLL075B01_06CB76AF_Touchpad" type="empty">
+    <property name="Properties" type="empty">
+      <property name="libinput_Tapping_Enabled" type="int" value="1"/>
+    </property>
+  </property>
+  <property name="DLL075B01_06CB76AF_Mouse" type="empty">
+    <property name="RightHanded" type="bool" value="true"/>
+    <property name="Threshold" type="int" value="1"/>
+    <property name="Acceleration" type="double" value="6.000000"/>
+  </property>
+  <property name="BluetoothMouse3600_Mouse" type="empty">
+    <property name="RightHanded" type="bool" value="true"/>
+    <property name="Threshold" type="int" value="1"/>
+    <property name="Acceleration" type="double" value="7.700000"/>
+  </property>
+  <property name="BluetoothMouse3600_Consumer_Control" type="empty">
+    <property name="RightHanded" type="bool" value="true"/>
+    <property name="Threshold" type="int" value="4"/>
+    <property name="Acceleration" type="double" value="1.900000"/>
+  </property>
+</channel>
