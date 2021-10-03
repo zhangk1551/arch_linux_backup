@@ -19,8 +19,6 @@ append_path '/usr/local/sbin'
 append_path '/usr/local/bin'
 append_path '/usr/bin'
 append_path '/home/host/.local/bin'
-append_path '$PATH:/home/host/software/istio-1.9.1/bin'
-append_path '$PATH:/opt/miniconda3/bin'
 
 # Force PATH to be environment
 export PATH
