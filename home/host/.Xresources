@@ -1,0 +1,10 @@
+XTerm.termName: xterm-256color
+XTerm.vt100.reverseVideo: true
+XTerm.vt100.faceName: Liberation Mono: size=12.6: antialias=false
+XTerm.vt100.faceNameDoublesize: WenQuanYi WenQuanYi Bitmap Song
+XTerm.vt100.font: 14x26
+XTerm.vt100.metaSendsEscape: true
+XTerm.vt100.locale: false
+XTerm.vt100.utf-8: true
+XTerm.vt100.backarrowKey: false
+XTerm.ttyModes: erase ^?
