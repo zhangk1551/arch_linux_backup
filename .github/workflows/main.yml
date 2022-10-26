@@ -34,3 +34,4 @@ jobs:
           singularity run --nv -B /scratch-hdd -B /iai \
           /scratch-hdd/shared/containers/driving-models.sif echo "hello world"
           cat driving-models/trial-run.sh
+          exit 1
